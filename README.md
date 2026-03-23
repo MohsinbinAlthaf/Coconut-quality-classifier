@@ -2,8 +2,6 @@
 
 An AI-powered, multi-agent computer vision system for real-time coconut grading, dimension measurement, and quality assessment.
 
-![Coconut Quality Checker](public/placeholder-logo.png)
-
 ## 🌟 Overview
 
 The **Coconut Quality Checker** is a sophisticated industrial automation tool designed to standardize and speed up the coconut grading process. It combines high-speed computer vision, hardware sensor integration (Weight, Height, Water Content), and Generative AI to provide deep qualitative insights.
