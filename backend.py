@@ -26,7 +26,7 @@ CORS(app)  # Enable CORS for Next.js frontend
 ROBOFLOW_API_URL = "http://localhost:9001"
 ROBOFLOW_API_KEY = "vX3xJcrhB0TPB71Q5RSc"
 ROBOFLOW_MODEL_ID = "my-first-project-nlg8h/5"
-GEMINI_API_KEY = "AIzaSyB5dGPsk6Ec1HITdiOJF50NVuVPAQoaVKY"  # Hardcoded API key
+GEMINI_API_KEY = "api key here"  # Hardcoded API key
 
 # Dimension Measurement Configuration
 CM_PER_PIXEL = 0.06014

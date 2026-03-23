@@ -1,7 +1,7 @@
 from google import genai
 import os
 
-client = genai.Client(api_key="AIzaSyB5dGPsk6Ec1HITdiOJF50NVuVPAQoaVKY")
+client = genai.Client(api_key="Api key here")
 
 print("Checking available Gemini models...")
 try:
